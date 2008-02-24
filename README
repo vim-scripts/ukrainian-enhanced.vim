@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2165
+
+A keymap for Ukrainian (UTF-8).
+
+The "Ukrainian enhanced keymap" simply allows you typing Ukrainian in Vim using jcuken Windows layout.
+There is another ukrainian layout already in Vim. See keymap\ukrainian-jcuken.vim script by Anatoli Sakhnik. But this one differs in way it maps numeric keys. It uses values usual for Windows users.
+
+See also:
+	:help keymap
+	:help i_Ctrl-^
+
+I use this in my vimrc file:
+" Ukrainian support
+"set keymap=ukrainian-enhanced
+" Default - latin layout
+"set iminsert=0
+" Default - latin layout in search mode
+"set imsearch=0
+
