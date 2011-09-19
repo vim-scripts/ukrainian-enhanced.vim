@@ -17,3 +17,4 @@ I use this in my vimrc file:
 " Default - latin layout in search mode
 "set imsearch=0
 
+See more details (in ukrainian) at http://korneliuk.blogspot.com/2008/03/vim-localization.html

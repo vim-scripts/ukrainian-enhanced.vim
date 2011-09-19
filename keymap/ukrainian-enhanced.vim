@@ -2,7 +2,7 @@
 " This file is based on russian-jcukenwin.vim by Artem Chuprina <ran@ran.pp.ru>.
 
 " Maintainer:   Ivan Korneliuk <vansha@gmail.com>
-" Last Changed: 2008 Feb 24
+" Last Changed: 2011 Sep 19
 
 scriptencoding utf-8
 
